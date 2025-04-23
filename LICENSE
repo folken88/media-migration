@@ -1,6 +1,10 @@
 MIT License
 
+<<<<<<< HEAD
+Copyright (c) 2024 Media Migration Contributors
+=======
 Copyright (c) 2025 folken88
+>>>>>>> 804900e49bfc3b49c1a2f5b20d24400044f9e4a9
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -18,4 +22,8 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+<<<<<<< HEAD
+SOFTWARE. 
+=======
 SOFTWARE.
+>>>>>>> 804900e49bfc3b49c1a2f5b20d24400044f9e4a9

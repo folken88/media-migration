@@ -1,0 +1,33 @@
+{
+  "id": "media-migration",
+  "title": "Media Migration",
+  "description": "Automatically updates Foundry VTT entities to use WebP images when available. Companion module for Media Optimizer.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "Your Name"
+    }
+  ],
+  "esmodules": [
+    "scripts/media-migration.js"
+  ],
+  "templates": [
+    "templates/migration-form.html"
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "media-optimizer",
+        "type": "module"
+      }
+    ]
+  },
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "license": "MIT"
+} 
